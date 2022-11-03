@@ -1,0 +1,15 @@
+C:\Users\cablecha1\Downloads\Charles cable\introToProgramingCharlesCable\final\text based advencher\text based advencher\bin\Debug\net6.0\text based advencher.exe
+C:\Users\cablecha1\Downloads\Charles cable\introToProgramingCharlesCable\final\text based advencher\text based advencher\bin\Debug\net6.0\text based advencher.deps.json
+C:\Users\cablecha1\Downloads\Charles cable\introToProgramingCharlesCable\final\text based advencher\text based advencher\bin\Debug\net6.0\text based advencher.runtimeconfig.json
+C:\Users\cablecha1\Downloads\Charles cable\introToProgramingCharlesCable\final\text based advencher\text based advencher\bin\Debug\net6.0\text based advencher.dll
+C:\Users\cablecha1\Downloads\Charles cable\introToProgramingCharlesCable\final\text based advencher\text based advencher\bin\Debug\net6.0\text based advencher.pdb
+C:\Users\cablecha1\Downloads\Charles cable\introToProgramingCharlesCable\final\text based advencher\text based advencher\obj\Debug\net6.0\text based advencher.csproj.AssemblyReference.cache
+C:\Users\cablecha1\Downloads\Charles cable\introToProgramingCharlesCable\final\text based advencher\text based advencher\obj\Debug\net6.0\text based advencher.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cablecha1\Downloads\Charles cable\introToProgramingCharlesCable\final\text based advencher\text based advencher\obj\Debug\net6.0\text based advencher.AssemblyInfoInputs.cache
+C:\Users\cablecha1\Downloads\Charles cable\introToProgramingCharlesCable\final\text based advencher\text based advencher\obj\Debug\net6.0\text based advencher.AssemblyInfo.cs
+C:\Users\cablecha1\Downloads\Charles cable\introToProgramingCharlesCable\final\text based advencher\text based advencher\obj\Debug\net6.0\text based advencher.csproj.CoreCompileInputs.cache
+C:\Users\cablecha1\Downloads\Charles cable\introToProgramingCharlesCable\final\text based advencher\text based advencher\obj\Debug\net6.0\text based advencher.dll
+C:\Users\cablecha1\Downloads\Charles cable\introToProgramingCharlesCable\final\text based advencher\text based advencher\obj\Debug\net6.0\refint\text based advencher.dll
+C:\Users\cablecha1\Downloads\Charles cable\introToProgramingCharlesCable\final\text based advencher\text based advencher\obj\Debug\net6.0\text based advencher.pdb
+C:\Users\cablecha1\Downloads\Charles cable\introToProgramingCharlesCable\final\text based advencher\text based advencher\obj\Debug\net6.0\text based advencher.genruntimeconfig.cache
+C:\Users\cablecha1\Downloads\Charles cable\introToProgramingCharlesCable\final\text based advencher\text based advencher\obj\Debug\net6.0\ref\text based advencher.dll
